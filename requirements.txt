@@ -6,3 +6,4 @@ fpdf
 Pillow
 matplotlib
 scikit-learn
+opencv-python-headless
